@@ -1,6 +1,7 @@
 package com.devsuperior.dspesquisa.entities;
 
-import com.devsuperior.dspesquisa.entities.enums.Platform;
+import com.devsuperior.dspesquisa.enums.Platform;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;
 import java.io.Serializable;
@@ -22,6 +23,7 @@ public class Game implements Serializable {
 
     @OneToMany(mappedBy = "game")
     private List<Record> records = new ArrayList<>();
+
 
     @ManyToOne
     @JoinColumn(name = "genre_id")

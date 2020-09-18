@@ -1,4 +1,4 @@
-package com.devsuperior.dspesquisa.entities.enums;
+package com.devsuperior.dspesquisa.enums;
 
 public enum Platform {
 
