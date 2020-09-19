@@ -18,6 +18,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1hWqJ2zWyyoSgWsfxZHT1hXbSPH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
@@ -31,5 +35,11 @@
       <updated>1600137121452</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="312" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600137727480">
+      <screen x="72" y="28" width="1848" height="1052" />
+    </state>
+    <state x="779" y="312" width="424" height="491" key="FileChooserDialogImpl/72.28.1848.1052@72.28.1848.1052" timestamp="1600137727480" />
   </component>
 </project>
